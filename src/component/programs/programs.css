@@ -1,0 +1,125 @@
+.programs{
+    margin: 80px auto;
+    width: 90%;
+    /* display: flex; */
+    align-items: center;
+    justify-content: space-between;
+}
+
+.about{
+    color: #4B535D;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    box-sizing: border-box;
+}
+
+p{
+    display: block;
+    text-align: left;
+    justify-content: center;
+   
+}
+
+.ratings{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding-top: 80px;
+
+}
+.rating-img{
+    display: flex;
+    justify-content: space-between;
+}
+.service-offered{
+    height: 415px;
+    width: 100%;
+    margin-top: 80px;
+    background-image: url("https://demo.bravisthemes.com/herrington/wp-content/uploads/2024/05/ab3.webp");
+    
+}
+.services{
+    display:flex;
+    padding-top: 80px;
+    justify-content: space-around;
+    line-height: 20px;   
+}
+.services h3{
+    padding: 30px;
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: none;
+    -webkit-text-fill-color: #ffff;
+    /* text-align: center; */
+}
+.services h5{
+    font-size: 12px;
+    text-transform: none;
+    -webkit-text-fill-color: #ffff;
+    /* width: 50%; */
+    text-align: center;
+}
+.sevice-content{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 250px;
+    margin: 20px;
+    
+}
+.service-image{
+    width: 100px;
+    height: 100px;
+    backdrop-filter: blur(10px);
+    background-color: #32455c;
+    padding: 25px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    overflow: hidden;
+    
+}
+
+.templates {
+    background-color: #f8f8f8;
+    padding: 40px;
+    text-align: center;
+}
+
+.templates-head h5 {
+    font-size: 2rem;
+    font-weight: 300;
+    color: #100f0f;
+    margin-bottom: 10px;
+    padding-top: 40px;
+}
+
+.templates-head h1 {
+    font-size: 4rem;
+    font-weight: 500;
+    margin: 10px 0;
+}
+
+.templates-head h3 {
+    font-size: 2rem;
+    color: #0c0b0b;
+    font-weight: 300;
+    margin: 20px 0;
+}
+
+.features {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 20px;
+}
+
+.features h3 {
+    font-size: 2rem;
+    color: #1a1919;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 30px;
+}

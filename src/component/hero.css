@@ -1,0 +1,32 @@
+.hero{
+    width: 100%;
+    min-height: 100vh;
+    background-image:url("https://demo.bravisthemes.com/herrington/wp-content/uploads/2024/07/ld1.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white; 
+    align-items: center;
+    justify-content: center;
+
+}
+
+.intro{
+    text-align: left;
+    max-width: 800px;
+    padding-top: 250px;
+}
+.intro h3{
+    max-width: 800px;
+    letter-spacing: 5px;
+    line-height: 1.4;
+
+}
+.intro h2{
+    font-size: 60px;
+    font-weight: 600;
+}
+
+
+
+
